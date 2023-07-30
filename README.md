@@ -11,4 +11,4 @@
 <br>
 -💡 My favorite concept is class and how i can use for better my program
 <br>
-:heart: C++ is life don't try to discuss it with me
+-:heart: C++ is life don't try to discuss it with me
