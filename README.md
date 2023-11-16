@@ -9,6 +9,8 @@
 <br>
 - :ballot_box_with_check: Printf - 100 points
 <br>
+- :ballot_box_with_check: Get Next Line - 125 points
+<br>
 - 🇵🇹 I'm live in lisbon
 <br>
 -💡 My favorite concept now is typecasting
