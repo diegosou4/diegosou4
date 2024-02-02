@@ -3,7 +3,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <br>
-- 🔭 I’m currently working on create virtual box, this is project common core of 42
+- 🔭 Currently, I'm focusing on the Common Core at 42
 <br>
 - :ballot_box_with_check: Libft - 125 points
 <br>
@@ -13,8 +13,8 @@
 <br>
 - :ballot_box_with_check: So_Long - 120 points
 <br>
-- 🇵🇹 I'm live in lisbon
+- :ballot_box_with_check: Push_Swap - 86 points
 <br>
--💡 My favorite concept now is typecasting
+- 🇵🇹 I'm live in lisbon
 <br>
 -:heart: I'm passionate about programming
