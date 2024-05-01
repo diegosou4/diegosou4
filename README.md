@@ -5,7 +5,6 @@ I'm a **Developer C and C++**, currently I have been studing on the common core 
 Feel free to connect with me here:<br>
 [![Linkedin Badge](https://img.shields.io/badge/-diegosou4-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-moreira-sardinha-de-souza-3031a2a8/)](https://www.linkedin.com/in/diego-moreira-sardinha-de-souza-3031a2a8/)
 [![Gmail Badge](https://img.shields.io/badge/-diegoaguia31@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diegoaguia31@gmail.com)](mailto:diegoaguia31@gmail.com)<br>
-![Diego GitHub stats](https://github-readme-stats.vercel.app/api?username=diegosou4&show_icons=true&theme=transparent)<br>
 
 
 ## ⚡💻 Technologies & Tools
