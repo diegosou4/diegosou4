@@ -1,8 +1,7 @@
 
 <h1>ft_printf("Hello World 🌎, I'm Diego"); <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-I'm a **Full Stack Developer**, currently studying in the common core of [42 Lisbon](https://www.42lisboa.com/), working with C and C++ to learn essential programming concepts!  
-Additionally, I work with JavaScript for front-end and Django for back-end development.  
+I'm a **Full Stack Developer** focusing in build a responsive applications, good design and fasts calls api.
 
 Feel free to connect with me here:  
 [![Linkedin Badge](https://img.shields.io/badge/-diegosou4-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-moreira-sardinha-de-souza-3031a2a8/)](https://www.linkedin.com/in/diego-moreira-sardinha-de-souza-3031a2a8/)  [![Gmail Badge](https://img.shields.io/badge/-diegoaguia31@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diegoaguia31@gmail.com)](mailto:diegoaguia31@gmail.com)
@@ -14,6 +13,8 @@ Feel free to connect with me here:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
