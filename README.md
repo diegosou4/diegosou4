@@ -33,8 +33,3 @@ Feel free to connect with me here:
 ![42](https://img.shields.io/badge/-42-black?style=for-the-badge&logo=42&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
----
-
-## 🚀 GitHub Stats
-
-![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegosou4&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegosou4&layout=donut&theme=radical)](https://github.com/diegosou4/github-readme-stats)
